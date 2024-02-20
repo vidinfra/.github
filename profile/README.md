@@ -3,7 +3,7 @@ We simplify complex video infrastructure processes, enabling the creation of fas
 ## 📃 News & Resources 
 
 - [Documentation](https://docs.vidinfra.com/docs/api-reference)
-- [api.video Blog](https://www.vidinfra.com/blog/): Read in-depth articles about the video, interesting use cases, company news, and a lot more!
+- [vidinfra Blog](https://www.vidinfra.com/blog/): Read in-depth articles about the video, interesting use cases, company news, and a lot more!
 - [Changelog](https://www.vidinfra.com/changelog): keep up to date with the latest product updates.
 
 ## 🖐️ Stay in touch 
